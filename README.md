@@ -13,3 +13,23 @@ Practical, which tests the implementation skills of AI tools; and
 Ethics and optimization, which tests ethical AI development and AI software optimization skills. 
 
 The assignment should be handled as group work formed. This is to enhance teamwork and AI engineering collaboration.
+
+
+Part 1: Theoretical Understanding (40%)
+1. Short Answer Questions
+
+Q1: Explain the primary differences between TensorFlow and PyTorch. When would you choose one over the other?
+
+Q2: Describe two use cases for Jupyter Notebooks in AI development.
+
+Q3: How does spaCy enhance NLP tasks compared to basic Python string operations?
+
+2. Comparative Analysis
+
+Compare Scikit-learn and TensorFlow in terms of:
+
+Target applications (e.g., classical ML vs. deep learning).
+
+Ease of use for beginners.
+
+Community support.
